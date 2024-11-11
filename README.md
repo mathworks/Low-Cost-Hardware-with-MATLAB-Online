@@ -51,6 +51,18 @@ Follow the instructions at the link below to install MATLAB Connector, which all
 
 https://www.mathworks.com/products/matlab-drive.html?s_tid=AO_MLConnector#matlab-drive-connector
 
+Following the steps in the GitHub repository:
+Download MATLAB Connector (note file names change)
+Run the MATLAB Connector Installer from the command line with these parameters:
+Windows:tar -xf installer.exe
+bin\win64\InstallMathWorksServiceHost.exe -feature hwservice
+Mac:
+unzip installer.dmg.zip
+InstallMathWorksServiceHost.app/Contents/MacOS/InstallMathWorksServiceHost -feature hwservice
+Linux: 
+sh installer.bin -feature hwservice ![image](https://github.com/user-attachments/assets/2ebe7ede-b694-41a5-a5dc-fe840a5abbef)
+
+
 ### 4. Configure MATLAB Connector for Arduino Hardware
 
 *Unlike MATLAB Desktop, the MATLAB and Simulink Support Packages for Arduino are automatically installed on MATLAB Online.*
