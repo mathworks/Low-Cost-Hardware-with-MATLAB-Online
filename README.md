@@ -135,11 +135,11 @@ MATLAB®
 
 ### Webcams
 
-[<u>https://www.mathworks.com/help/matlabmobile/matlab\-mobile\-fundamentals.html</u>](https://www.mathworks.com/help/matlabmobile/matlab-mobile-fundamentals.html)
+[[<u>https://www.mathworks.com/help/matlabmobile/matlab\-mobile\-fundamentals.html</u>](https://www.mathworks.com/help/matlabmobile/matlab-mobile-fundamentals.html)](https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html)
 
 ### ThingSpeak
 
-[<u>https://www.mathworks.com/help/matlab/cameras\-and\-mobile\-sensing.html?s\_tid=CRUX\_topnav</u>](https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html?s_tid=CRUX_topnav)
+[[<u>https://www.mathworks.com/help/matlab/cameras\-and\-mobile\-sensing.html?s\_tid=CRUX\_topnav</u>](https://www.mathworks.com/help/matlab/cameras-and-mobile-sensing.html?s_tid=CRUX_topnav)](https://www.mathworks.com/help/thingspeak/)
 
 ### Arduino
 
