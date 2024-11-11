@@ -147,7 +147,9 @@ https://www.mathworks.com/help/thingspeak/
 
 ### Raspberry Pi
 
-[<u>https://www.mathworks.com/help/matlab/supportpkg/connect\-to\-raspberry\-pi\-hardware\-board\-in\-matlab\-online.html</u>](https://www.mathworks.com/help/matlab/supportpkg/connect-to-raspberry-pi-hardware-board-in-matlab-online.html) [<u>https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&exampleproduct=all&newonly=&s\_tid=CRUX\_lftnav</u>](https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav)
+[<u>https://www.mathworks.com/help/matlab/supportpkg/connect\-to\-raspberry\-pi\-hardware\-board\-in\-matlab\-online.html</u>](https://www.mathworks.com/help/matlab/supportpkg/connect-to-raspberry-pi-hardware-board-in-matlab-online.html) 
+
+[<u>https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&exampleproduct=all&newonly=&s\_tid=CRUX\_lftnav</u>](https://www.mathworks.com/help/matlab/examples.html?category=raspberrypiio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav)
 
 
  *©* Copyright 2024 The MathWorks™, Inc
