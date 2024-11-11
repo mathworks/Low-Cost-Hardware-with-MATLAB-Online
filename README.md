@@ -47,14 +47,9 @@ Scan the QR code below to download the app on your smart device:
 
 ### 3. Install MATLAB Connector
 
-Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online.
+Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online:
 
-
-INSERT LINK WHEN AVAILABLE
-
--  Go to page 18 of the MLO for Arduino Support Package PDF. 
--  Start by clicking the words "MATLAB Connector download page" within the PDF to begin installation. 
--  Continue to follow the installation steps from there. 
+https://www.mathworks.com/products/matlab-drive.html?s_tid=AO_MLConnector#matlab-drive-connector
 
 ### 4. Configure MATLAB Connector for Arduino Hardware
 
