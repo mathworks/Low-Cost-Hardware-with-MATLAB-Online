@@ -92,7 +92,7 @@ Click the button below to clone the repository for this workshop to your MATLAB 
 [<img src="README_media/image_1.png" width="136" alt="image_1.png">](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=README.mlx) 
 
 # Activities
-### Demo: Advanced Arduino Control
+### Demo 1: Advanced Arduino Control
 <p style="text-align:left">
    <img src="README_media/image_2.png" width="576" alt="image_2.png">
 </p>
@@ -100,7 +100,7 @@ Click the button below to clone the repository for this workshop to your MATLAB 
 
 [<u>https://www.mathworks.com/help/matlab/supportpkg/iot\-automatic\-cooling\-fan\-arduino\-example.html</u>](https://www.mathworks.com/help/matlab/supportpkg/iot-automatic-cooling-fan-arduino-example.html)
 
-### Demo: [Collecting Smartphone Sensor Data](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=PlotLoggedAccelerationDatafromMATLABMobile.mlx)
+### Demo 2: [Collecting Smartphone Sensor Data](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=PlotLoggedAccelerationDatafromMATLABMobile.mlx)
 <p style="text-align:left">
    <img src="README_media/image_3.png" width="569" alt="image_3.png">
 </p>
@@ -120,7 +120,7 @@ Click the button below to clone the repository for this workshop to your MATLAB 
 </p>
 
 
-### Activity 3: [Controlling an LED using MATLAB Online and Arduino](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=ArduinoGettingStartedExample.mlx)
+### Demo 3: [Controlling an LED using MATLAB Online and Arduino](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=ArduinoGettingStartedExample.mlx)
 <p style="text-align:left">
    <img src="README_media/image_6.png" width="528" alt="image_6.png">
 </p>
