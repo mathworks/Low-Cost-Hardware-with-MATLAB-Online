@@ -114,7 +114,7 @@ Click the button below to clone the repository for this workshop to your MATLAB 
 
 # License
 
-The license for this module is available in the [LICENSE.txt]([https://github.com/mathworks/Low-Cost-Hardware-with-MATLAB-Online/LICENSE.txt](https://github.com/mathworks/Low-Cost-Hardware-with-MATLAB-Online/blob/main/LICENSE.txt))
+The license for this module is available in the [LICENSE.txt](https://github.com/mathworks/Low-Cost-Hardware-with-MATLAB-Online/blob/main/LICENSE.txt)
 
 
 ## Products
