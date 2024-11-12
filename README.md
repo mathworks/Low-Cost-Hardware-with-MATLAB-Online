@@ -83,6 +83,9 @@ arduinosetup
 arduinolist
 ```
 
+**You will see an error in MATLAB Online when running Arduino commands if your region is not yet ready for this feature.**
+
+**Arduino support for EDU customers will be rolled out in all regions in a future update to 2024b**
 
 ### 5. Clone this Repository to your MATLAB Drive
 
