@@ -168,6 +168,7 @@ https://www.mathworks.com/help/thingspeak/
 ### Arduino
 
 [<u>https://www.mathworks.com/help/matlab/examples.html?category=arduinoio&exampleproduct=all&newonly=&s\_tid=CRUX\_lftnav</u>](https://www.mathworks.com/help/matlab/examples.html?category=arduinoio&exampleproduct=all&newonly=&s_tid=CRUX_lftnav)
+https://www.mathworks.com/help/matlab/supportpkg/using-arduino-explorer.html
 
 ### Raspberry Pi
 
