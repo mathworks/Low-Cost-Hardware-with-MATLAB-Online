@@ -49,18 +49,23 @@ Scan the QR code below to download the app on your smart device:
 
 Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online:
 
-https://www.mathworks.com/products/matlab-drive.html?s_tid=AO_MLConnector#matlab-drive-connector
+   https://www.mathworks.com/products/matlab-drive.html?s_tid=AO_MLConnector#matlab-drive-connector
+   
 
-Following the steps in the GitHub repository:
-Download MATLAB Connector (note file names change)
-Run the MATLAB Connector Installer from the command line with these parameters:
-Windows:tar -xf installer.exe
+Next, run the MATLAB Connector Installer from the command line with these parameters (*note that file names may vary*):
+- Windows
+```console
+tar -xf mathworksservicehost_2024.8.0.2_win64_installer.exe
 bin\win64\InstallMathWorksServiceHost.exe -feature hwservice
-Mac:
-unzip installer.dmg.zip
-InstallMathWorksServiceHost.app/Contents/MacOS/InstallMathWorksServiceHost -feature hwservice
-Linux: 
-sh installer.bin -feature hwservice ![image](https://github.com/user-attachments/assets/2ebe7ede-b694-41a5-a5dc-fe840a5abbef)
+```
+- Mac
+```console
+/Volumes/mathworksservicehost_xxxx.x.x.x_maci64_installer/InstallMathWorksServiceHost.app/Contents/MacOS/InstallMathWorksServiceHost -feature hwservice
+```
+- Linux 
+```console
+sh ~/Downloads/mathworksservicehost_xxxx.x.x.x_glnxa64_installer.bin -feature hwservice
+```
 
 
 ### 4. Configure MATLAB Connector for Arduino Hardware
@@ -68,18 +73,16 @@ sh installer.bin -feature hwservice ![image](https://github.com/user-attachments
 *Unlike MATLAB Desktop, the MATLAB and Simulink Support Packages for Arduino are automatically installed on MATLAB Online.*
 
 -  After you have successfully installed MATLAB Connector, plug in your Arduino board.
--  Next, ensure that your board is listed in "Hardware Connectivity" within MATLAB Connector:
-
-[<img src="README_media/image_7.png" width="136" alt="image_7.png">](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=README.mlx) 
-
-- Log in to MATLAB Online and run the following command
+- Log in to MATLAB Online and run the following command in the Command Window:
+```Matlab
+arduinosetup
+```
 - Follow the instructions, accepting the default libraries.
 - When complete, run the following command and ensure the status of your board is *"Ready to connect"*:
-
 ```Matlab
-some code
-some more code
+arduinolist
 ```
+
 
 ### 5. Clone this Repository to your MATLAB Drive
 
