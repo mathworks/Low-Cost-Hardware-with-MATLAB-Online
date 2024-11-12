@@ -67,8 +67,19 @@ sh installer.bin -feature hwservice ![image](https://github.com/user-attachments
 
 *Unlike MATLAB Desktop, the MATLAB and Simulink Support Packages for Arduino are automatically installed on MATLAB Online.*
 
--  After you have successfully installed MATLAB Connector, scroll to page 10 of the MLO for Arduino Support Package PDF. 
--  Follow the instructions for connecting and setting up an Arduino board with MATLAB Online. 
+-  After you have successfully installed MATLAB Connector, plug in your Arduino board.
+-  Next, ensure that your board is listed in "Hardware Connectivity" within MATLAB Connector:
+
+[<img src="README_media/image_7.png" width="136" alt="image_7.png">](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=README.mlx) 
+
+- Log in to MATLAB Online and run the following command
+- Follow the instructions, accepting the default libraries.
+- When complete, run the following command and ensure the status of your board is *"Ready to connect"*:
+
+```Matlab
+some code
+some more code
+```
 
 ### 5. Clone this Repository to your MATLAB Drive
 
