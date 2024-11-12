@@ -119,7 +119,7 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 
 ## Products
 
-MATLAB®
+MATLAB®, Image Processing Toolbox
 
 # Educator Resources
 
