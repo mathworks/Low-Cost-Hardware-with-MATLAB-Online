@@ -50,23 +50,6 @@ Scan the QR code below to download the app on your smart device:
 Follow the instructions at the link below to install MATLAB Connector, which allows you to interface your Arduino hardware with MATLAB Online:
 
    https://www.mathworks.com/products/matlab-drive.html?s_tid=AO_MLConnector#matlab-drive-connector
-   
-
-Next, run the MATLAB Connector Installer from the command line with these parameters (*note that file names may vary*):
-- Windows
-```console
-tar -xf mathworksservicehost_2024.8.0.2_win64_installer.exe
-bin\win64\InstallMathWorksServiceHost.exe -feature hwservice
-```
-- Mac
-```console
-/Volumes/mathworksservicehost_xxxx.x.x.x_maci64_installer/InstallMathWorksServiceHost.app/Contents/MacOS/InstallMathWorksServiceHost -feature hwservice
-```
-- Linux 
-```console
-sh ~/Downloads/mathworksservicehost_xxxx.x.x.x_glnxa64_installer.bin -feature hwservice
-```
-
 
 ### 4. Configure MATLAB Connector for Arduino Hardware
 
