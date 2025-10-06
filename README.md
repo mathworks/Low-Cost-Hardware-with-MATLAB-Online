@@ -1,9 +1,10 @@
 
-# <span style="color:rgb(213,80,0)">Project\-Based Learning with Low\-Cost Hardware using MATLAB Online</span>
+# <span style="color:rgb(213,80,0)">Project\-Based Learning with Low\-Cost Hardware using MATLAB</span>
 
 # Overview
 
-This workshop serves as a resource for educators seeking to enhance experiential learning with MATLAB**®** and Simulink**®** in online, hybrid, and remote environments. By leveraging MATLAB Online in conjunction with affordable hardware, educators can offer students engaging projects and activities without the need for costly lab equipment, extensive software installations, or complex desktop configurations. The repository includes guidance on using MATLAB Online with low\-cost hardware platforms, such as Arduino, and other devices via MATLAB Mobile and ThingSpeak, to facilitate project\-based learning. It also provides instructions on connecting hardware to MATLAB Online and designing effective project\-based learning activities for remote settings.
+This webinar is designed for educators aiming to enrich project-based learning experiences by integrating affordable hardware with MATLAB®. Participants will explore practical strategies for utilizing MATLAB Mobile for sensor data acquisition, interfacing webcams for image and video processing, and connecting to cloud-based platforms like ThingSpeak for IoT applications. The session will also cover hands-on integration with popular hardware platforms such as Raspberry Pi and Arduino, demonstrating how these tools can be seamlessly connected to MATLAB to create interactive, real-world projects. Attendees will gain insights into setting up and managing low-cost hardware in both classroom and remote learning environments, enabling engaging, scalable, and accessible project-based activities without the need for expensive lab infrastructure or complex software installations.
+
 
 ## Technical Requirements
 
