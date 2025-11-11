@@ -21,8 +21,6 @@ If you would like to follow along with all of the workshop activities, a basic A
 [<u>Arduino Starter Kit</u>](https://store.arduino.cc/products/arduino-starter-kit-multi-language?srsltid=AfmBOoo8ChxKlB7y5MEod3Eek5t9001C-l_8_YQT77jxbHOjEc_IE9ac)
 
 
-This workshop will be recorded and available following the EXPO, so even if you do not have the materials or time required to perform every activity, you can consult this repository and the recording at a later time.
-
 # Getting Started
 ### 1. Create a MathWorks Account
 
