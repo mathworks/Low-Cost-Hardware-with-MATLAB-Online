@@ -85,7 +85,7 @@ Click the button below to clone the repository for this workshop to your MATLAB 
 
 [<u>https://www.mathworks.com/help/matlab/supportpkg/iot\-automatic\-cooling\-fan\-arduino\-example.html</u>](https://www.mathworks.com/help/matlab/supportpkg/iot-automatic-cooling-fan-arduino-example.html)
 
-### Demo 2: [Collecting Smartphone Sensor Data](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=PlotLoggedAccelerationDatafromMATLABMobile.mlx)
+### Demo 2: [Collecting Smartphone Sensor Data](https://matlab.mathworks.com/open/github/v1?repo=mathworks/Low-Cost-Hardware-with-MATLAB-Online&project=low-cost-hw-mlo.prj&file=PlotLiveAccelerationDatafromMATLABMobile.mlx)
 <p style="text-align:left">
    <img src="README_media/image_3.png" width="569" alt="image_3.png">
 </p>
